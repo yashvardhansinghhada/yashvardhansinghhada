@@ -9,7 +9,7 @@
 </p>
 <img
   align="right"
-  src="https://images.app.goo.gl/DphgsfNV4UB9GjSn6"
+  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
   width="400"
   alt="coding"
 />
@@ -40,8 +40,8 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -111,8 +111,7 @@
       height="40"
     />
   </a>
-  </p>
-  <p align="center">
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -129,6 +128,8 @@
       height="40"
     />
   </a>
+  </p>
+  <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
@@ -204,3 +205,5 @@
 </p>
 
 
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashvardhansinghhada&show_icons=true&locale=en" alt="yashvardhansinghhada" /></p>
