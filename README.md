@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **MERN Stack**
 -  💬 Ask me about **react,express,mongodb,nodeJS,python,**
 - 📫 How to reach me **hadayashvardhan@gmail.com**
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
@@ -39,7 +39,7 @@
       width="40"
   /></a>
 </p>
-
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -129,6 +129,7 @@
     />
   </a>
   </p>
+  </br>
   <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
@@ -195,15 +196,13 @@
     />
   </a>
 </p>
-
+<br/
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvardhansinghhada&show_icons=true&locale=en&layout=compact"
     alt="yashvardhansinghhada"
   />
 </p>
-
-
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashvardhansinghhada&show_icons=true&locale=en" alt="yashvardhansinghhada" /></p>
+<br/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvardhansinghhada&show_icons=true&locale=en" alt="yashvardhansinghhada" /></p>
