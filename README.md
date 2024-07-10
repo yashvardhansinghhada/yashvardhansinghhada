@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashvardhan Singh Hada</h1>
-<h3 align="center">MERN Stack Developer From India.</h3>
+<h3 align="center">Machine Learning Engineer + MERN Stack Developer From India.</h3>
 
 <p align="left">
   <img
@@ -14,8 +14,8 @@
   alt="coding"
 />
 
-- 🔭 I’m currently working on **MERN Stack**
--  💬 Ask me about **react,express,mongodb,nodeJS,python,**
+- 🔭 I’m currently working on **Creating Machine Learning Models**
+-  💬 Ask me about **Machine Learning,Deep Learning,react,express,mongodb,nodeJS,python**
 - 📫 How to reach me **hadayashvardhan@gmail.com**
 </br>
 <h3 align="left">Connect with me:</h3>
